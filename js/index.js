@@ -16,32 +16,22 @@ const number = document.getElementById("number");
 const result = document.querySelector(".lorem-text");
 const copyMe = document.querySelector(".copy");
 
-//we are going to add event listener on the form, this time it will listen to the button submit not click.
+//add event listener on the form,
 
-//notice it goes away after clicking on button. use the prevent default method on the button element to keep the text on the console
-
-//all input in to input form receives a string evidence is the black text numbers appear blue. we need to parseint it 
 
 form.addEventListener("submit", (e) => { 
     e.preventDefault();
     value = parseInt(number.value);
-    //console.log(value);
+ 
 
 
-   // validation: empty? -1? >9?
+   // validation: if value is not a number or if value is less or equal to 0 the error
     if (isNaN(value) || value <= 0) {
         result.style.color = "red";
          result.innerHTML = `<p class = "result">Select a valid number</p>`;
     }
-//from fcc's projectarray, use the slice method which ask for start(0) to end of value the user specify(paragraph). returns  is then map which returnd an array and then join() ignoring the ""
-    //else{
-    //let tempText = text.slice(0,value);
-    //tempText = tempText.map((item) =>{
-    //return `<p class="result">${item}</p>`;
-  //  }).join("");
-    
-    //}
 
+//after validation chech use a random number to select from the lorem rexr array
     let arr = "";
     for (let i = 0; i < value; i++) {
         const rand = Math.floor(Math.random() * 5);
@@ -51,10 +41,3 @@ form.addEventListener("submit", (e) => {
     }
 });
 
-
-// function copyText() {
-//   result.select();
-//   document.execCommand("copy");
-// }
-
-// copyMe.addEventListener("click", copyText);
