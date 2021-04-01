@@ -21,7 +21,7 @@ This is a simple web application web application project mainly to practice my H
 <!-- GETTING STARTED -->
 
 ## Getting Started
-This is JavaScript Web appliaction which runs in the browser. You need a V8 engive to run JavaScript program. For the purpose of this project I used Google Chrome browser.
+This is JavaScript Web application which runs in the browser. You need a V8 engive to run JavaScript program. For the purpose of this project I used Google Chrome browser.
 
 - Enter the number of paragraph you want to generate.
 - Input has to be a number greater than 1
