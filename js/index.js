@@ -18,7 +18,7 @@ const number = document.getElementById('number');
 const result = document.querySelector('.lorem-text');
 const copyMe = document.querySelector('.copy');
 
-//we are going to add event listener on the form, this time it will listen to the button submit not click.
+//add event listener on the form,
 
 //notice it goes away after clicking on button. use the prevent default method on the button element to keep the text on the console
 
