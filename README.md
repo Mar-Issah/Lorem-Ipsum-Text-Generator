@@ -6,7 +6,7 @@ Easily generate Lorem Ipsum placeholder text for your project in any number of p
 
 ![Lorem Text Generator](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617221410/My%20Website%20Projects/lorem_text_gen_2_ym3zc2.png)
 
-This is a simple web application web application project mainly to practice my HTML5 and CSS3 skills. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.
+This is a simple web application project mainly to practice my HTML5 and CSS3 skills. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.
 
 <br>
 
@@ -24,7 +24,7 @@ This is a simple web application web application project mainly to practice my H
 
 ## Getting Started
 
-This is JavaScript Web application which runs in the browser. You need a V8 engive to run JavaScript program. For the purpose of this project I used Google Chrome browser.
+This is JavaScript Web application which runs in the browser. You need a V8 engine to run JavaScript program. For the purpose of this project I used Google Chrome browser.
 
 - Enter the number of paragraph you want to generate.
 - Input has to be a number greater than 1
