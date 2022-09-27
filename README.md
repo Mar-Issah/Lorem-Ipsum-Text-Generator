@@ -27,7 +27,7 @@ This is a simple web application project mainly to practice my HTML5 and CSS3 sk
 This is JavaScript Web application which runs in the browser. You need a V8 engine to run JavaScript program. For the purpose of this project I used Google Chrome browser.
 
 - Enter the number of paragraph you want to generate.
-- Input has to be a number greater than 1
+- Input has to be a number greater than 1.
 - You can now copy the text into your project
 
 ### Installation
