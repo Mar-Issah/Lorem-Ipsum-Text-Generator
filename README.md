@@ -50,7 +50,7 @@ This is JavaScript Web application which runs in the browser. You need a V8 engi
 
 ## Project View
 
-[Click here](https://codepen.io/marsiya-issah/full/ZEpyPYE) to view project on CodePen
+[Click here](https://codepen.io/marsiya-issah/full/ZEpyPYE) to view project on CodePen.
 
 ![Lorem Text Generator](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617221377/My%20Website%20Projects/lorem_text_gen.3_suhvi4.png)
 
