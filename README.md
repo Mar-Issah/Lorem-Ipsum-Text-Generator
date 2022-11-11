@@ -42,7 +42,7 @@ This is JavaScript Web application which runs in the browser. You need a V8 engi
 
 ### OR
 
-5. Search for the index.html in the folder and open with browser
+5. Search for the index.html in the folder and open with browser.
 
 <br>
 
