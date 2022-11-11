@@ -28,7 +28,7 @@ This is JavaScript Web application which runs in the browser. You need a V8 engi
 
 - Enter the number of paragraph you want to generate.
 - Input has to be a number greater than 1.
-- You can now copy the text into your project
+- You can now copy the text into your project.
 
 ### Installation
 
